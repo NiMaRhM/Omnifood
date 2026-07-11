@@ -136,8 +136,6 @@ This project is based on the course:
 
 **Build Responsive Real-World Websites with HTML and CSS**
 
-The project design, content, and assets are used for educational and portfolio purposes.
-
 ## Author
 
 Created by **Nima Rahimi**.
