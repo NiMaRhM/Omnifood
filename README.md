@@ -136,10 +136,3 @@ This project is based on the course:
 
 **Build Responsive Real-World Websites with HTML and CSS**
 
-## Author
-
-Created by **Nima Rahimi**.
-
----
-
-If you found this project useful, consider giving it a star on GitHub.
