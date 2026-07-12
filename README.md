@@ -18,7 +18,7 @@ This project is based on the course **Build Responsive Real-World Websites with 
 
 ## Overview
 
-Omnifood is a modern marketing website for a fictional AI-powered meal subscription platform. The website presents personalized meal planning, food delivery, pricing plans, customer testimonials, and a sign-up form.
+Omnifood is a modern marketing website for a fictional meal subscription platform. The website presents personalized meal planning, food delivery, pricing plans, customer testimonials, and a sign-up form.
 
 The project focuses on building a clean, accessible, and responsive user interface using vanilla HTML, CSS, and JavaScript.
 
