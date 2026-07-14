@@ -1,6 +1,7 @@
 # Omnifood — Responsive Food Subscription Website
 <img width="1897" height="1004" alt="Screenshot 2026-07-11 111303" src="https://github.com/user-attachments/assets/dfe89780-ae3e-4ae0-b6a8-790ff240167a" />
 [Click Here To See The Demo](http://nimarhm.github.io/Omnifood)
+[Click](https://nimarhm.github.io/Omnifood/)
 A fully responsive landing page for Omnifood, food subscription service that delivers healthy, personalized meals every day.
 
 This project is based on the course **Build Responsive Real-World Websites with HTML and CSS**.
